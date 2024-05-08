@@ -8,7 +8,7 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y git
 
 # Clone the GitHub repository
-RUN git clone https://github.com/ShivaBhattacharjee/Synthia.git
+RUN git clone https://github.com/CodeBrazen/Synthia.git
 
 # Set the working directory to the cloned repository
 WORKDIR /app/Synthia

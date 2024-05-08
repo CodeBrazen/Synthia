@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://github.com/ShivaBhattacharjee/Synthia">
+  <a href="https://github.com/CodeBrazen/Synthia">
     <img src="./assets/synthia.png" alt="Logo" width="150px" >
   </a>
 <br/>
-  <h3 align="center">Synthia</h3>
+  <h3 align="center">Synthia</h3>git push -u origin ma
   <p align="center">
     A high level interpreted language built on top of rust
     <br/>
     <br/>
     <a href="https://hub.docker.com/r/immashiva/synthia">Docker</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/synthia/issues">Report Bug</a>
+    <a href="https://github.com/CodeBrazen/synthia/issues">Report Bug</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/synthia/issues">Request Feature</a>
+    <a href="https://github.com/CodeBrazen/synthia/issues">Request Feature</a>
   </p>
 </p>
 
@@ -117,7 +117,7 @@ docker run immashiva/synthia
 ```
   ### Local
 ```sh
-git clone https://github.com/ShivaBhattacharjee/Synthia
+git clone https://github.com/CodeBrazen/Synthia
 ```
 
 ```sh
@@ -326,7 +326,7 @@ $ cargo run run helloworld.syn
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ShivaBhattacharjee/synthia/issues) to discuss it
+- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/CodeBrazen/synthia/issues) to discuss it
 
 - Please make sure you check your spelling and grammar.
 
@@ -342,7 +342,7 @@ Wanna contribute to Synthia ?
 
 ## Raising an issue
 
-If you're experiencing any problems with Synthia, please be sure to review our [issue template](https://github.com/ShivaBhattacharjee/synthia/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
+If you're experiencing any problems with Synthia, please be sure to review our [issue template](https://github.com/CodeBrazen/synthia/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
 
 We kindly ask that you provide as much detail as possible when submitting an issue, including steps to reproduce the problem, any error messages that you have seen, and any other relevant information. This will help us to identify and fix the issue more quickly.
 
@@ -350,12 +350,8 @@ Thank you for your cooperation, and we look forward to hearing from you!
 
 ## License
 
-Distributed under Apache License . See [LICENSE](https://github.com/ShivaBhattacharjee/synthia/blob/main/LICENSE) for more information
+Distributed under Apache License . See [LICENSE](https://github.com/CodeBrazen/synthia/blob/main/LICENSE) for more information
 
 ## Authors
 
-- **Shiva Bhattacharjee** - [Shiva Bhattacharjee](https://github.com/ShivaBhattacharjee)
-- **Vinayak Bharadwaz** - [Vinayak Bharadwaz](https://github.com/VinayakBharadwaz)
-- **Nipu Das** - [Nipu Das](https://github.com/nipudas29)
-- **Niharika Bordoloi** - [Niharika Bordoloi](https://github.com/nihharika)
-- **Shayan Chakraborty** - [Shayan Chakraborty](https://github.com/Lostshayan)
+- **CodeBrazen** - [CodeBrazen](https://github.com/CodeBrazen)
